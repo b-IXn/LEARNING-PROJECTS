@@ -1,0 +1,1 @@
+name = input('bidhan hho? )
